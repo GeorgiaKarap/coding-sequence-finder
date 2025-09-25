@@ -1,0 +1,4 @@
+Requirements
+
+C compiler, e.g. gcc (GNU Compiler Collection) or clang.
+Terminal / Command Line.
